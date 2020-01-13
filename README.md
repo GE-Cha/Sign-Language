@@ -25,4 +25,4 @@ At first design step, this project is mainly about a DL based mobile application
 
 
 ## Reference
-** Description for alphabets from ![here](http://www.deafblind.com/asl.html)
+** Description for alphabets from [here](http://www.deafblind.com/asl.html)
