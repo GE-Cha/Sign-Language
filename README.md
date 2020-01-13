@@ -22,3 +22,7 @@ At first design step, this project is mainly about a DL based mobile application
 
 
 ## Contribution
+
+
+## Reference
+** Description for alphabets from ![here](http://www.deafblind.com/asl.html)
