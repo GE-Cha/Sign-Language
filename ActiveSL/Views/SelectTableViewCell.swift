@@ -10,6 +10,9 @@ import UIKit
 
 class SelectTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var lbCell: UILabel!
+    
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

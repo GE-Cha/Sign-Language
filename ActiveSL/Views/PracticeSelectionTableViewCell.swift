@@ -10,6 +10,8 @@ import UIKit
 
 class PracticeSelectionTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var lbCell: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

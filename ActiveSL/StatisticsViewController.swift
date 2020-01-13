@@ -16,7 +16,10 @@ class StatisticsViewController: ViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func btnPressedBack(_ sender: Any) {
+        super.btnPressedBack()
+    }
+    
     /*
     // MARK: - Navigation
 

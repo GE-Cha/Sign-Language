@@ -10,6 +10,8 @@ import UIKit
 
 class TesingSelectionTableViewCell: UITableViewCell {
 
+    @IBOutlet weak var lbTitle: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
