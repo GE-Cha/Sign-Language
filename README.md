@@ -21,8 +21,7 @@ At first design step, this project is mainly about a DL based mobile application
 ![](https://github.com/chagom/Sign-Language/blob/master/updated_mobile_design.png)
 
 ## Education
-
-
+In this application, users are expected to beginners of ASL; therefore, contents of this application are mainly focused on alphabets and numbers.
 
 ## Contribution
 
